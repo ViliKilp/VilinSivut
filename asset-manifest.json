@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/omatsivutrepov2/static/css/main.bee1d747.css",
-    "main.js": "/omatsivutrepov2/static/js/main.43967ee6.js",
-    "static/media/vilijami.mp4": "/omatsivutrepov2/static/media/vilijami.592dfdfdbcc4d890f48f.mp4",
-    "static/media/vilijaamos-05.jpg": "/omatsivutrepov2/static/media/vilijaamos-05.6e97616fc98d4ec96185.jpg",
-    "index.html": "/omatsivutrepov2/index.html",
-    "main.bee1d747.css.map": "/omatsivutrepov2/static/css/main.bee1d747.css.map",
-    "main.43967ee6.js.map": "/omatsivutrepov2/static/js/main.43967ee6.js.map"
+    "main.css": "/VilinSivut/static/css/main.bee1d747.css",
+    "main.js": "/VilinSivut/static/js/main.1b2ce92f.js",
+    "static/media/vilijami.mp4": "/VilinSivut/static/media/vilijami.592dfdfdbcc4d890f48f.mp4",
+    "static/media/vilijaamos-05.jpg": "/VilinSivut/static/media/vilijaamos-05.6e97616fc98d4ec96185.jpg",
+    "index.html": "/VilinSivut/index.html",
+    "main.bee1d747.css.map": "/VilinSivut/static/css/main.bee1d747.css.map",
+    "main.1b2ce92f.js.map": "/VilinSivut/static/js/main.1b2ce92f.js.map"
   },
   "entrypoints": [
     "static/css/main.bee1d747.css",
-    "static/js/main.43967ee6.js"
+    "static/js/main.1b2ce92f.js"
   ]
 }
