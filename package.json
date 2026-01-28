@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Personal CV/Homepage",
   "private": true,
-  "homepage": "https://vilikilp.github.io/omatsivutrepov2/",
+  "homepage": "https://vilikilp.github.io/VilinSivut/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
