@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/VilinSivut/static/css/main.1a6e8b21.css",
+    "main.css": "/VilinSivut/static/css/main.d8b2c345.css",
     "main.js": "/VilinSivut/static/js/main.1b2ce92f.js",
     "static/media/vilijami.mp4": "/VilinSivut/static/media/vilijami.592dfdfdbcc4d890f48f.mp4",
     "static/media/vilijaamos-05.jpg": "/VilinSivut/static/media/vilijaamos-05.6e97616fc98d4ec96185.jpg",
     "index.html": "/VilinSivut/index.html",
-    "main.1a6e8b21.css.map": "/VilinSivut/static/css/main.1a6e8b21.css.map",
+    "main.d8b2c345.css.map": "/VilinSivut/static/css/main.d8b2c345.css.map",
     "main.1b2ce92f.js.map": "/VilinSivut/static/js/main.1b2ce92f.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a6e8b21.css",
+    "static/css/main.d8b2c345.css",
     "static/js/main.1b2ce92f.js"
   ]
 }
